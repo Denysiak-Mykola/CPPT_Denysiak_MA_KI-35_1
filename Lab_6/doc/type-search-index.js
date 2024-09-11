@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"КІ305.Денисяк.Lab6","l":"Penal"}];updateSearchResults();

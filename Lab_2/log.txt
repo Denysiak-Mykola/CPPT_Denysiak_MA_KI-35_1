@@ -1,0 +1,111 @@
+House status:
+Adress: Shevchenka 57
+Floors: 2
+Rooms: 7
+Door's type: Wood
+Door: close
+Window's type: Plastic
+Window: close
+ 
+Room name is Kitchen
+ 
+Room area is 15.5
+ 
+House status:
+Adress: Shevchenka 57
+Floors: 7
+Rooms: 7
+Door's type: Wood
+Door: close
+Window's type: Plastic
+Window: close
+ 
+Door opened
+ 
+Window opened
+ 
+Door closed
+ 
+House status:
+Adress: Shevchenka 57
+Floors: 1
+Rooms: 7
+Door's type: Wood
+Door: close
+Window's type: Plastic
+Window: open
+ 
+House status:
+Adress: Shevchenka 57
+Floors: 2
+Rooms: 7
+Door's type: Wood
+Door: close
+Window's type: Plastic
+Window: close
+ 
+Room name is Kitchen
+ 
+Room area is 15.5
+ 
+House status:
+Adress: Shevchenka 57
+Floors: 7
+Rooms: 7
+Door's type: Wood
+Door: close
+Window's type: Plastic
+Window: close
+ 
+Door opened
+ 
+Window opened
+ 
+Door closed
+ 
+House status:
+Adress: Shevchenka 57
+Floors: 1
+Rooms: 7
+Door's type: Wood
+Door: close
+Window's type: Plastic
+Window: open
+ 
+House status:
+Adress: Shevchenka 57
+Floors: 2
+Rooms: 7
+Door's type: Wood
+Door: close
+Window's type: Plastic
+Window: close
+ 
+Room name is Kitchen
+ 
+Room area is 15.5
+ 
+House status:
+Adress: Shevchenka 57
+Floors: 7
+Rooms: 7
+Door's type: Wood
+Door: close
+Window's type: Plastic
+Window: close
+ 
+Door opened
+ 
+Window opened
+ 
+Door closed
+ 
+House status:
+Adress: Shevchenka 57
+Floors: 1
+Rooms: 7
+Door's type: Wood
+Door: close
+Window's type: Plastic
+Window: open
+ 

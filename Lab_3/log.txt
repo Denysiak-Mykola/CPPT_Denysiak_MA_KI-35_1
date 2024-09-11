@@ -1,0 +1,37 @@
+Office Centre info:
+Company: Mycrosoft
+Adress: Shevchenka 28
+Numer of office 250
+Floors: 10
+Rooms: 250
+Office centre: close
+ 
+Office centre is opened
+ 
+Performing maintenance on the Office Center
+ 
+Checking the condition of the Office Center
+ 
+Door opened
+ 
+Window opened
+ 
+House status:
+Adress: Shevchenka 28
+Floors: 12
+Rooms: 250
+Door's type: Glass
+Door: open
+Window's type: Glass
+Window: open
+ 
+Office centre is closed
+ 
+Office Centre info:
+Company: Mycrosoft
+Adress: Shevchenka 28
+Numer of office 250
+Floors: 12
+Rooms: 250
+Office centre: close
+ 

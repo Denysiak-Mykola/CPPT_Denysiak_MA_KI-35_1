@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"КІ305.Денисяк.Lab4","c":"Equation","l":"calc(double)"},{"p":"КІ305.Денисяк.Lab4","c":"Equation","l":"Equation()","u":"%3Cinit%3E()"}];updateSearchResults();
