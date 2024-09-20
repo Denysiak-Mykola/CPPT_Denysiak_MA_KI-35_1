@@ -39,9 +39,7 @@ public class Lab1ДенисякКІ305 {
                     for (int j = 0; j < size; j++) {
                         if (i + j >= size - 1) {
                             arr[i][j] = fillChar;
-                        } else {
-                            arr[i][j] = ' ';
-                        }
+                        } 
                     }
                 }
 

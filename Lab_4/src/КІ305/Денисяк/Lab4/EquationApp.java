@@ -38,6 +38,7 @@ public class EquationApp {
 			System.err.println("Error writing to a file: " + e.getMessage());
 		}finally {
 			scanner.close();
+			System.out.println("End");
 		}
 	}
 
